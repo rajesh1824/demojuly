@@ -1,0 +1,62 @@
+
+    4  cd ~
+    5  yum update
+    6  y
+    7  yum update
+    8  yum install git-core -y
+    9  clear
+   10  g[t -version cvbnm,zxcvbm,./qqqqqqqq q vi .bashrc
+   11  clear
+   12  git --version
+   13  git clone https://github.com/hareesh011093/harsha.git
+   14  ls
+   15  cd harsha/
+   16  touch icici
+   17  ls
+   18  vi hdfc
+   19  git add hdfc
+   20  git status
+   21  git commit -m "testing"
+   22  git config --global user.name Hareesh.T
+   23  git config --global user.email Hareesh.thr10@gmail.com
+   24  git status
+   25  git --oneline
+   26  git  log
+   27  git push origin master
+   28  ls
+   29  ls -a
+   30  cd ~
+   31  ls -a
+   32  cd /.ssh
+   33  cd .ssh/
+   34  ls
+   35  ssh-keygen
+   36  ls -a
+   37  cat id_rsa.pub
+   38  git remote set-url origin git@github.com:hareesh011093/harsha.git
+   42  cd /opt
+   43  ls
+   44  cd ~
+   45  ls
+   46  cd harsha/
+   47  ls
+   48  vi sample.xml
+   49  git add sample.xml
+   50  git commit -m "test2"
+   51  git branch teacher
+   52  git checkout teacher
+   53  git push origin master teacher
+   54  git log
+   55  git checkout master
+   56  ls
+   57  git merge teacher 053a3bc6317579e23ad64a05ee942a373814b76e
+   58  git mearge teacher 053a3bc6317579e23ad64a05ee942a373814b76e
+   59  git push origin master
+   60  git remote set-url origin git@github.com:hareesh011093/harsha.gi
+   61  git remote set-url origin git@github.com:hareesh011093/harsha.git
+   62  ssh -vT git@github.com
+   63  vi pom.xml
+   64  git add pom.xml
+   65  git commit -m "pom file for build"
+   66  git push origin master
+   67  history
